@@ -1,0 +1,245 @@
+{
+  "school": {
+    "name": "New Pioneer Public School",
+    "tagline": "Building Knowledge. Shaping Character. Inspiring Futures.",
+    "establishedYear": "[Information to be updated by school administration]",
+    "locations": [
+      {
+        "id": "main-head-office",
+        "name": "Main Head Office",
+        "medium": "English Medium",
+        "address": {
+          "street": "Miryasi Tola",
+          "city": "Nanpara",
+          "district": "Siddharthnagar",
+          "state": "Uttar Pradesh",
+          "pinCode": "271865",
+          "country": "India"
+        },
+        "contact": {
+          "phone": "[Information to be updated by school administration]",
+          "email": "[Information to be updated by school administration]"
+        }
+      },
+      {
+        "id": "english-medium-branch",
+        "name": "English Medium Branch",
+        "medium": "English Medium",
+        "address": {
+          "street": "Nawab Ganj",
+          "city": "Nanpara",
+          "district": "Siddharthnagar",
+          "state": "Uttar Pradesh",
+          "pinCode": "271865",
+          "country": "India"
+        },
+        "contact": {
+          "phone": "[Information to be updated by school administration]",
+          "email": "[Information to be updated by school administration]"
+        }
+      },
+      {
+        "id": "hindi-medium-school",
+        "name": "Hindi Medium School",
+        "medium": "Hindi Medium",
+        "address": {
+          "street": "Mohalla Beldaran Tola",
+          "city": "Nanpara",
+          "district": "Siddharthnagar",
+          "state": "Uttar Pradesh",
+          "pinCode": "271865",
+          "country": "India"
+        },
+        "contact": {
+          "phone": "[Information to be updated by school administration]",
+          "email": "[Information to be updated by school administration]"
+        }
+      }
+    ],
+    "management": {
+      "principal": "[Information to be updated by school administration]",
+      "vicePrincipal": "[Information to be updated by school administration]",
+      "administrator": "[Information to be updated by school administration]"
+    },
+    "affiliation": {
+      "board": "[Information to be updated by school administration]",
+      "affiliationNumber": "[Information to be updated by school administration]",
+      "udiseCode": "[Information to be updated by school administration]"
+    },
+    "vision": "To create an environment where every student develops intellectually, physically, and morally to become a leader in their chosen field.",
+    "mission": "To provide comprehensive education that develops critical thinking, fosters creativity, and prepares students for success in an ever-changing world.",
+    "classes": {
+      "foundational": [
+        "Play Group",
+        "Nursery",
+        "LKG",
+        "UKG"
+      ],
+      "primary": [
+        "Class 1",
+        "Class 2",
+        "Class 3",
+        "Class 4",
+        "Class 5"
+      ],
+      "middle": [
+        "Class 6",
+        "Class 7",
+        "Class 8"
+      ],
+      "secondary": [
+        "Class 9",
+        "Class 10"
+      ],
+      "seniorSecondary": [
+        "Class 11",
+        "Class 12"
+      ],
+      "specializedPrograms": [
+        {
+          "name": "D.Pharm",
+          "status": "[Information to be confirmed by the institution]"
+        },
+        {
+          "name": "DMLT",
+          "status": "[Information to be confirmed by the institution]"
+        },
+        {
+          "name": "Diploma Courses",
+          "status": "[Information to be confirmed by the institution]"
+        }
+      ]
+    },
+    "subjects": {
+      "languages": [
+        "English Language & Literature",
+        "Hindi Language & Literature"
+      ],
+      "sciences": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ],
+      "mathematics": [
+        "Mathematics"
+      ],
+      "socialSciences": [
+        "Social Studies"
+      ],
+      "technology": [
+        "Computer Science",
+        "Information Technology"
+      ],
+      "physical": [
+        "Physical Education"
+      ],
+      "arts": [
+        "Art & Culture",
+        "Music"
+      ],
+      "vocational": [
+        "Vocational Training (as applicable)"
+      ]
+    },
+    "facilities": {
+      "academic": [
+        "Well-equipped library with diverse reading materials",
+        "Laboratory facilities for practical learning",
+        "Computer labs with internet access",
+        "Digital learning resources and e-learning platform",
+        "Study guides and reference materials"
+      ],
+      "sports": [
+        "Sports ground",
+        "Indoor sports facilities"
+      ],
+      "infrastructure": [
+        "Classroom blocks",
+        "Administrative offices",
+        "Staff room",
+        "Medical room"
+      ]
+    },
+    "academicCalendar": {
+      "academicYear": "April to March",
+      "semesters": "Two semesters",
+      "holidays": "As per government norms and national festivals",
+      "examinations": "[Information to be updated by school administration]"
+    },
+    "statistics": {
+      "totalStudents": "[Information to be updated by school administration]",
+      "totalTeachers": "[Information to be updated by school administration]",
+      "yearsFounded": "[Information to be updated by school administration]",
+      "campusLocations": 3
+    },
+    "admissionProcess": {
+      "steps": [
+        "Submit completed application form with required documents",
+        "Attend counseling session with parents",
+        "Assessment test (as per class requirements)",
+        "Interview with school management",
+        "Admission confirmation and fee submission"
+      ],
+      "eligibility": {
+        "playGroup": "Age 2.5 to 3.5 years",
+        "nursery": "Age 3.5 to 4.5 years",
+        "lkg": "Age 4.5 to 5.5 years",
+        "ukg": "Age 5.5 to 6.5 years",
+        "classI_onwards": "Previous class pass certificate or equivalent"
+      },
+      "requiredDocuments": [
+        "Birth Certificate (attested copy)",
+        "Previous School Certificate / Transfer Certificate",
+        "Mark Sheet from previous class",
+        "Vaccination Certificate",
+        "Identity proof (Aadhaar / PAN)",
+        "Address proof",
+        "Passport-size photographs (4-6)",
+        "Medical fitness certificate (where required)"
+      ],
+      "feeStructure": "[Information to be updated by school administration]",
+      "importantDates": "[Information to be updated by school administration]"
+    },
+    "studentResources": [
+      "Student Login Portal",
+      "Admit Card Download",
+      "Examination Information",
+      "Results Portal",
+      "Notice Board",
+      "Homework & Assignments Portal",
+      "Study Material Downloads",
+      "Academic Calendar",
+      "Events Calendar",
+      "Document Downloads (Bonafide, Transfer Certificates)"
+    ],
+    "socialMedia": {
+      "facebook": "[To be updated by school administration]",
+      "instagram": "[To be updated by school administration]",
+      "youtube": "[To be updated by school administration]",
+      "twitter": "[To be updated by school administration]"
+    },
+    "contactInformation": {
+      "mainEmail": "[Information to be updated by school administration]",
+      "mainPhone": "[Information to be updated by school administration]",
+      "inquiryEmail": "[Information to be updated by school administration]",
+      "officeHours": "[Information to be updated by school administration]"
+    }
+  },
+  "website": {
+    "version": "1.0",
+    "lastUpdated": "2026-09-12",
+    "securityNote": "This website implements security best practices. For production deployment, ensure all security headers are configured on the server.",
+    "features": [
+      "Responsive design for all devices",
+      "Accessible navigation with keyboard support",
+      "Form validation with security measures",
+      "Mobile-friendly hamburger menu",
+      "Language switcher (EN/HI)",
+      "Smooth scroll animations",
+      "Reduced motion support",
+      "Dark mode support",
+      "SEO optimized",
+      "WCAG 2.1 Level AA accessibility compliance target"
+    ]
+  }
+}
